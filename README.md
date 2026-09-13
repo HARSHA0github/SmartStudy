@@ -73,5 +73,3 @@ SmartStudy/
 └── .gitignore
 ```
 
-## Patent & Rights Transfer
-All patents, copyrights, and intellectual property rights embedded within this project have been fully transferred from HARSHA0github. This project and its code are released for unrestricted use, modification, and distribution.
