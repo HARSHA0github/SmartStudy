@@ -49,11 +49,14 @@ SmartStudy is a local document Q&A assistant. Upload a PDF, ask a question, and 
    ```env
    GROQ_API_KEY=your_groq_api_key_here
    ```
-5. **Run the application:**
+   you can get your API key from here
+   https://console.groq.com/home
+   generate API Key
+6. **Run the application:**
    ```bash
    python run.py
    ```
-6. **Access the App:** Open your browser and navigate to http://127.0.0.1:8000
+7. **Access the App:** Open your browser and navigate to http://127.0.0.1:8000
 
 ## Project Structure
 ```text
